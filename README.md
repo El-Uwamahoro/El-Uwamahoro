@@ -22,8 +22,6 @@ I am a Software developer who is very passionate about technology. And I mostly 
 
 - ⚡ Fun fact **I believe in kindness**
 
-### Connect With Me:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
@@ -44,7 +42,35 @@ I am a Software developer who is very passionate about technology. And I mostly 
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-uwamahoro&show_icons=true&locale=en&layout=compact" alt="el-uwamahoro" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=el-uwamahoro&show_icons=true&locale=en&layout=compact" alt="el-uwamahoro" /> <br>
+<span><img src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" /></span>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" />
+<br />
+<br />
+&nbsp;
+<br />
+<br />
+
+<h2 align="center">Where to find me</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  </a>
+  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a>
+  <a href="https://instagram.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  </a>
+  <a href="mailto:trungquandev.official@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
+</div>
+
+<br>
 
