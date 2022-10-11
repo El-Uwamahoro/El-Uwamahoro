@@ -40,9 +40,11 @@ I am a Software developer who is very passionate about technology. And I mostly 
 
 <br />
 <br />
+&nbsp;
+<br />
+<br />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-uwamahoro&show_icons=true&locale=en&layout=compact" alt="el-uwamahoro" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-uwamahoro&show_icons=true&locale=en&layout=compact" alt="el-uwamahoro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" />
 
