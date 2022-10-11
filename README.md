@@ -2,13 +2,13 @@
 
 ![I am a Software developer](https://github.com/El-Uwamahoro/El-Uwamahoro/blob/main/MacBook%20Pro%2014_%20-%202.png)
 
-# I'm Sonia
-I am a Software developer who is very passionate about technology. And I mostly love to create, design and develop softwares.
+<h1 align="center"> I'm Sonia</h1>
+<h4 align="center">I am a Software developer who is very passionate about technology. And I mostly love to create, design and develop softwares.</h4>
 
 
 
 
-<img align="right" alt="GIF" src="https://media.baamboozle.com/uploads/images/620536/1642736858_1647676_gif-url.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="400" height="400" />
 
 
 ## Know Me 
