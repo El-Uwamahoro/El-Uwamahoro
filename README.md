@@ -1,7 +1,9 @@
 
-### Hi there 👋, I'm Sonia
-#### I am a Software developer
+
 ![I am a Software developer](https://github.com/El-Uwamahoro/El-Uwamahoro/blob/main/MacBook%20Pro%2014_%20-%202.png)
+
+# Hi there 👋, I'm Sonia
+## I am a Software developer
 
 I'm a python developer.
 
