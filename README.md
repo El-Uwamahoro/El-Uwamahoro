@@ -2,13 +2,20 @@
 
 ![I am a Software developer](https://github.com/El-Uwamahoro/El-Uwamahoro/blob/main/MacBook%20Pro%2014_%20-%202.png)
 
-<h1 align="center"> I'm Sonia</h1>
-<h4 align="center">I am a Software developer who is very passionate about technology. And I mostly love to create, design and develop softwares.</h4>
+&nbsp;
+
+
+<h1 align="left"> I'm Sonia</h1>
+<h4 align="left">I am a Software developer who is very passionate about technology. And I mostly love to create, design and develop softwares.</h4>
+<br />
+<br />
+&nbsp;
+<br />
+<br />
 
 
 
-
-<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="350" height="350" />
 
 
 ## Know Me 
@@ -43,7 +50,7 @@
 <br />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=el-uwamahoro&show_icons=true&locale=en&layout=compact" alt="el-uwamahoro" /> <br>
-<span><img src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" /></span>
+<span display="inline-block" ><img src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" /></span>
 
 <br />
 <br />
