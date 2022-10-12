@@ -53,6 +53,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-uwamahoro&layout=compact)](https://github.com/el-uwamahoro/github-readme-stats)
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-uwamahoro&layout=compact)](https://github.com/el-uwamahoro/github-readme-stats" />
+</a>
+
+
 <br />
 <br />
 &nbsp;
