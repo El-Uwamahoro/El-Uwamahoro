@@ -54,6 +54,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-uwamahoro&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-uwamahoro&layout=compact)](https://github.com/el-uwamahoro/github-readme-stats)
 
 
 <br />
