@@ -68,15 +68,16 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/plasticine/2x/instagram-new--v1.png" alt="trungquandev-instagram" width="100" height="100"/>
   </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="trungquandev-linkedin" width="100" height="100"/>
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/plasticine/344/pinterest--v1.png" alt="trungquandev-instagram" width="100" height="100"/>
-  </a>
-  <a href="#" target="top">
+   <a href="#" target="top">
     <img src="https://img.icons8.com/plasticine/2x/twitter-squared.png" alt="trungquandev-email" width="100" height="100"/>
   </a>
+   <a href="#" target="blank">
+    <img src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="trungquandev-linkedin" width="100" height="100"/>
+  </a>
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/plasticine/344/pinterest--v1.png" alt="trungquandev-instagram" width="100" height="100"/>
+  </a>
+ 
 </div>
 
 <br>
