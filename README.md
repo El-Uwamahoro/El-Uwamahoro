@@ -15,7 +15,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/13/ae/59/13ae593c39163baf0bc2a393c6f4f705.gif" width="380" height="290" />
+<img align="right" alt="GIF" src="https://github.com/El-Uwamahoro/El-Uwamahoro/blob/main/snagif.gif" width="380" height="290" />
 
 
 ## Know Me 
