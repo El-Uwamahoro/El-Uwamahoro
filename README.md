@@ -52,6 +52,10 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=el-uwamahoro&show_icons=true&locale=en&layout=compact" alt="el-uwamahoro" /> <br>
 <span display="inline-block" ><img src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" /></span>
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-uwamahoro&theme=radical)
+
+
 <br />
 <br />
 &nbsp;
