@@ -15,7 +15,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/13/ae/59/13ae593c39163baf0bc2a393c6f4f705.gif" width="350" height="300" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/13/ae/59/13ae593c39163baf0bc2a393c6f4f705.gif" width="390" height="300" />
 
 
 ## Know Me 
