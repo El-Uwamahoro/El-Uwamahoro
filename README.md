@@ -49,11 +49,7 @@
 <br />
 <br />
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=el-uwamahoro&show_icons=true&locale=en&layout=compact" alt="el-uwamahoro" /> <br>
-<span display="inline-block" ><img src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&locale=en" alt="el-uwamahoro" /></span>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-uwamahoro&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-uwamahoro&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-uwamahoro&layout=compact)](https://github.com/el-uwamahoro/github-readme-stats)
 
 
