@@ -15,7 +15,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="350" height="350" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/13/ae/59/13ae593c39163baf0bc2a393c6f4f705.gif" width="350" height="300" />
 
 
 ## Know Me 
