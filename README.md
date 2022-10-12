@@ -49,13 +49,24 @@
 <br />
 <br />
 
-<div align="center" display="inline">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&theme=dracula" />
-</a>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-uwamahoro&layout=compact&langs_count=7&theme=dracula"/>
-</a>
+
+<br>
+<h2 align="center">GitHub Stats </h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="Trungquandev">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-uwamahoro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=7A4951&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=el-uwamahoro&show_icons=true&theme=react&title_color=7A4951&border_color=ffffff&hide_border=true" />
+  </a>
 </div>
+
+<br>
+
+ 
+
 
 <br />
 <br />
@@ -88,20 +99,3 @@
 <br>
 
 
-
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
- 
