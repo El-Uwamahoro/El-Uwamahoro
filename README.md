@@ -63,19 +63,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/plasticine/2x/facebook.png" alt="trungquandev-facebook" width="100" height="100" />
+    <img src="https://img.icons8.com/plasticine/2x/facebook.png" alt="trungquandev-facebook" width="80" height="80" />
   </a>
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/plasticine/2x/instagram-new--v1.png" alt="trungquandev-instagram" width="100" height="100"/>
+    <img src="https://img.icons8.com/plasticine/2x/instagram-new--v1.png" alt="trungquandev-instagram" width="80" height="80"/>
   </a>
    <a href="#" target="top">
-    <img src="https://img.icons8.com/plasticine/2x/twitter-squared.png" alt="trungquandev-email" width="100" height="100"/>
+    <img src="https://img.icons8.com/plasticine/2x/twitter-squared.png" alt="trungquandev-email" width="80" height="80"/>
   </a>
    <a href="#" target="blank">
-    <img src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="trungquandev-linkedin" width="100" height="100"/>
+    <img src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="trungquandev-linkedin" width="80" height="80"/>
   </a>
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/plasticine/344/pinterest--v1.png" alt="trungquandev-instagram" width="100" height="100"/>
+    <img src="https://img.icons8.com/plasticine/344/pinterest--v1.png" alt="trungquandev-instagram" width="80" height="80"/>
   </a>
  
 </div>
